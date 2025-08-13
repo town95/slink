@@ -1,5 +1,6 @@
 
 https://town95.github.io/slink/main.js
+https://cdn.jsdelivr.net/gh/town95/slink/main.js
 # Slink 短链接使用说明
 
 ## 一. 核心功能
