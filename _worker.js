@@ -23,8 +23,8 @@ const protect_keylist = [
   "password",
 ]
 
-let index_html = "https://yutian81.github.io/slink/" + config.theme + "/index.html"
-let result_html = "https://yutian81.github.io/slink/" + config.theme + "/result.html"
+let index_html = "https://town95.github.io/slink/" + config.theme + "/index.html"
+let result_html = "https://town95.github.io/slink/" + config.theme + "/result.html"
 
 // 404页面HTML
 const html404 = `<!DOCTYPE html>
